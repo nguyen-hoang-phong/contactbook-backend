@@ -69,6 +69,5 @@ class ContactService {
     return result.deletedCount;
   }
 }
- 
 
 module.exports = ContactService;
